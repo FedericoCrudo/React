@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "San Pedro de Rozados",
+      "date": "2023-09-16T11:09:46.186Z",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.863679665481676",
+        "lng": "-5.800781250000001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Alcantara",
+      "date": "2023-09-16T11:09:48.468Z",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "39.740986355883564",
+        "lng": "-6.943359375000001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Talarrubias",
+      "date": "2023-09-16T11:09:51.254Z",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "39.04478604850143",
+        "lng": "-5.273437500000001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Belalcazar",
+      "date": "2023-09-16T11:09:52.890Z",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "38.66835610151506",
+        "lng": "-5.053710937500001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Alcala de Henares",
+      "date": "2023-09-16T11:09:54.461Z",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.49709237269567",
+        "lng": "-3.3398437500000004"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Sobradiel",
+      "date": "2023-09-16T11:09:56.749Z",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "41.73852846935917",
+        "lng": "-1.0327148437500002"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Miglionico",
+      "date": "2023-09-16T11:09:59.651Z",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "position": {
+        "lat": "40.613952441166596",
+        "lng": "16.457519531250004"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Salice Salentino",
+      "date": "2023-09-16T11:10:02.261Z",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "position": {
+        "lat": "40.36328834091583",
+        "lng": "17.973632812500004"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Grumento Nova",
+      "date": "2023-09-16T11:10:04.084Z",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "position": {
+        "lat": "40.3130432088809",
+        "lng": "15.864257812500002"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Isernia",
+      "date": "2023-09-16T11:10:06.221Z",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "position": {
+        "lat": "41.5579215778042",
+        "lng": "14.260253906250002"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Viterbo",
+      "date": "2023-09-16T11:10:08.527Z",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "position": {
+        "lat": "42.374778361114195",
+        "lng": "11.975097656250002"
+      },
+      "id": 11
+    }
+  ]
+}
